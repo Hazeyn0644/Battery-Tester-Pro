@@ -28,6 +28,7 @@ Ensure Python is installed on your computer. / Bilgisayarınızda Python'un yük
 Install required libraries (if not using the automatic launcher): / Gerekli kütüphaneleri yükleyin (otomatik başlatıcı kullanmıyorsanız):
 
 🚀 Kullanım / Usage
+
 Windows Users
 Simply double-click on run.bat file. The script will automatically install necessary libraries and launch the XP interface.
 Sadece run.bat dosyasına çift tıklayın. Script, gerekli kütüphaneleri otomatik kontrol edecek ve XP arayüzünü başlatacaktır.
